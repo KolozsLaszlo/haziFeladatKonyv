@@ -1,0 +1,15 @@
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\bin\Debug\net6.0\HaziFeladatKONYV_KL.exe
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\bin\Debug\net6.0\HaziFeladatKONYV_KL.deps.json
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\bin\Debug\net6.0\HaziFeladatKONYV_KL.runtimeconfig.json
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\bin\Debug\net6.0\HaziFeladatKONYV_KL.dll
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\bin\Debug\net6.0\HaziFeladatKONYV_KL.pdb
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\obj\Debug\net6.0\HaziFeladatKONYV_KL.csproj.AssemblyReference.cache
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\obj\Debug\net6.0\HaziFeladatKONYV_KL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\obj\Debug\net6.0\HaziFeladatKONYV_KL.AssemblyInfoInputs.cache
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\obj\Debug\net6.0\HaziFeladatKONYV_KL.AssemblyInfo.cs
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\obj\Debug\net6.0\HaziFeladatKONYV_KL.csproj.CoreCompileInputs.cache
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\obj\Debug\net6.0\HaziFeladatKONYV_KL.dll
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\obj\Debug\net6.0\refint\HaziFeladatKONYV_KL.dll
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\obj\Debug\net6.0\HaziFeladatKONYV_KL.pdb
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\obj\Debug\net6.0\HaziFeladatKONYV_KL.genruntimeconfig.cache
+C:\Users\Felhasználó\Documents\hf\asztali\HaziFeladatKONYV_KL\HaziFeladatKONYV_KL\obj\Debug\net6.0\ref\HaziFeladatKONYV_KL.dll
